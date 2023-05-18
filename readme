@@ -8,4 +8,10 @@ git status
 
 #this is the short cut
 
+#to add remote origin 
+git remote add origin https://github.com/Carmeganda/melacute.git
+
+#to push committed files from local to origin
+git push -u origin master
+
 this is for my friends May 18
